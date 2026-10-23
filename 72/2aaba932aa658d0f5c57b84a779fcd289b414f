@@ -1,0 +1,16 @@
+package.json
+  h_ee346400b6b23a 56,83
+src/server/renderer/handler.js
+  h_ee346400b6b23a 8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "722aaba932aa658d0f5c57b84a779fcd289b414f",
+  "prompts": {},
+  "humans": {
+    "h_ee346400b6b23a": {
+      "author": "Sahil <sahil.kandpal@1mg.com>"
+    }
+  }
+}
